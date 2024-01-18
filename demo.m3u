@@ -205,17 +205,17 @@ http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=1919
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 #EXTINF:-5 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="港澳",中天新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-1 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-2 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-2 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-#EXTINF:-3 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-3 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 http://168.205.87.198:8555/live/1431/123456/159.ts
-#EXTINF:-4 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-4 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19156/index.m3u8
-#EXTINF:-5 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-5 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 https://eyeonesports.com/ES2RA-628g.m3u8
-#EXTINF:-6 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-6 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-7 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/uploadlogo" group-title="国际",espn
+#EXTINF:-7 tvg-id="espn" tvg-name="espn" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="国际",espn
 http://41.205.93.154/ESPN/index.m3u8
